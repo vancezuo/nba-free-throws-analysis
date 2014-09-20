@@ -1,0 +1,21 @@
+Analysis of Deviance Table
+
+Model: binomial, link: logit
+
+Response: success
+
+Terms added sequentially (first to last)
+
+
+             Df Deviance Resid. Df Resid. Dev Pr(>Chi)    
+NULL                         43393      48517             
+playerFull  457  2613.73     42936      45904  < 2e-16 ***
+prevTries     1   136.98     42935      45767  < 2e-16 ***
+type          2     6.66     42933      45760  0.03577 *  
+closeness     1     6.34     42932      45754  0.01178 *  
+secondsLeft   1     4.03     42931      45750  0.04461 *  
+clutch55      1     1.36     42930      45748  0.24370    
+ahead         1     1.32     42929      45747  0.25000    
+isHomeTeam    1     1.84     42928      45745  0.17503    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 

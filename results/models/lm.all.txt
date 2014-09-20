@@ -1,0 +1,487 @@
+
+Call:
+glm(formula = formula, family = binomial(), data = ft)
+
+Deviance Residuals: 
+    Min       1Q   Median       3Q      Max  
+-2.4978   0.3567   0.6275   0.7536   2.1278  
+
+Coefficients:
+                                 Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                     1.246e-01  5.881e-01   0.212 0.832155    
+playerFullAfflalo, Arron        1.078e+00  6.084e-01   1.772 0.076325 .  
+playerFullAlabi, Solomon        1.601e+00  1.221e+00   1.312 0.189656    
+playerFullAldrich, Cole         2.261e+00  1.193e+00   1.895 0.058038 .  
+playerFullAldridge, LaMarcus    1.173e+00  6.085e-01   1.927 0.053989 .  
+playerFullAllen, Lavoy          9.825e-01  8.775e-01   1.120 0.262869    
+playerFullAllen, Ray            2.183e+00  6.835e-01   3.194 0.001405 ** 
+playerFullAllen, Tony           1.105e+00  6.169e-01   1.791 0.073344 .  
+playerFullAminu, Al-Farouq      8.311e-01  6.262e-01   1.327 0.184481    
+playerFullAmundson, Louis      -6.207e-01  6.281e-01  -0.988 0.323028    
+playerFullAndersen, Chris       1.401e-01  6.293e-01   0.223 0.823788    
+playerFullAnderson, Alan        1.421e+00  7.615e-01   1.866 0.062100 .  
+playerFullAnderson, James       7.019e-01  6.836e-01   1.027 0.304520    
+playerFullAnderson, Ryan        1.690e+00  6.318e-01   2.674 0.007488 ** 
+playerFullAnthony, Carmelo      1.144e+00  6.017e-01   1.901 0.057365 .  
+playerFullAnthony, Joel         4.879e-01  6.409e-01   0.761 0.446532    
+playerFullArenas, Gilbert       4.407e-01  9.083e-01   0.485 0.627511    
+playerFullAriza, Trevor         9.383e-01  6.333e-01   1.482 0.138472    
+playerFullAsik, Omer           -5.055e-01  6.205e-01  -0.815 0.415295    
+playerFullAugustin, D.J.        1.694e+00  6.491e-01   2.609 0.009071 ** 
+playerFullAyon, Gustavo         1.963e-01  6.421e-01   0.306 0.759852    
+playerFullBabbitt, Luke         2.375e+00  1.188e+00   1.999 0.045655 *  
+playerFullBalkman, Renaldo      6.601e-01  8.969e-01   0.736 0.461752    
+playerFullBarbosa, Leandro      1.206e+00  6.311e-01   1.911 0.056016 .  
+playerFullBarea, Jose           9.389e-01  6.352e-01   1.478 0.139401    
+playerFullBargnani, Andrea      1.650e+00  6.300e-01   2.619 0.008818 ** 
+playerFullBarnes, Matt          7.884e-01  6.230e-01   1.265 0.205717    
+playerFullBass, Brandon         1.153e+00  6.202e-01   1.860 0.062909 .  
+playerFullBattie, Tony          1.323e+01  2.671e+02   0.050 0.960512    
+playerFullBattier, Shane        1.860e-01  6.783e-01   0.274 0.783989    
+playerFullBatum, Nicolas        1.307e+00  6.251e-01   2.091 0.036509 *  
+playerFullBayless, Jerryd       1.470e+00  6.596e-01   2.228 0.025855 *  
+playerFullBeasley, Michael      2.808e-01  6.250e-01   0.449 0.653226    
+playerFullBeaubois, Rodrigue    1.286e+00  6.740e-01   1.908 0.056368 .  
+playerFullBelinelli, Marco      9.982e-01  6.249e-01   1.597 0.110181    
+playerFullBell, Raja            1.414e+00  8.025e-01   1.762 0.078019 .  
+playerFullBibby, Mike           7.714e-01  1.007e+00   0.766 0.443576    
+playerFullBiedrins, Andris     -2.369e+00  1.213e+00  -1.953 0.050868 .  
+playerFullBillups, Chauncey     1.896e+00  6.760e-01   2.804 0.005042 ** 
+playerFullBiyombo, Bismack     -3.960e-01  6.105e-01  -0.649 0.516557    
+playerFullBlair, DeJuan         1.226e-01  6.169e-01   0.199 0.842445    
+playerFullBlake, Steve          1.104e+00  7.721e-01   1.430 0.152601    
+playerFullBlatche, Andray       3.954e-01  6.617e-01   0.597 0.550203    
+playerFullBledsoe, Eric         2.543e-01  6.658e-01   0.382 0.702484    
+playerFullBogut, Andrew         1.645e-01  7.271e-01   0.226 0.821026    
+playerFullBonner, Matt          8.727e-01  7.805e-01   1.118 0.263500    
+playerFullBooker, Trevor        1.207e-01  6.243e-01   0.193 0.846678    
+playerFullBoozer, Carlos        5.140e-01  6.171e-01   0.833 0.404820    
+playerFullBosh, Chris           1.229e+00  6.076e-01   2.023 0.043120 *  
+playerFullBoykins, Earl         1.610e+00  9.611e-01   1.675 0.093844 .  
+playerFullBrackins, Craig      -3.707e-01  1.534e+00  -0.242 0.809040    
+playerFullBradley, Avery        1.049e+00  6.507e-01   1.612 0.107041    
+playerFullBrand, Elton          7.183e-01  6.236e-01   1.152 0.249446    
+playerFullBrewer, Corey         4.948e-01  6.172e-01   0.802 0.422677    
+playerFullBrewer, Ronnie       -2.513e-02  6.217e-01  -0.040 0.967757    
+playerFullBrockman, Jon        -4.432e-01  7.833e-01  -0.566 0.571501    
+playerFullBrooks, Marshon       8.658e-01  6.182e-01   1.401 0.161357    
+playerFullBrown, Derrick        3.619e-01  6.137e-01   0.590 0.555417    
+playerFullBrown, Kwame         -5.131e-01  6.817e-01  -0.753 0.451634    
+playerFullBrown, Shannon        1.199e+00  6.429e-01   1.865 0.062227 .  
+playerFullBryant, Kobe          1.423e+00  6.019e-01   2.363 0.018106 *  
+playerFullBudinger, Chase       9.857e-01  6.561e-01   1.502 0.132999    
+playerFullBurks, Alec           7.855e-01  6.192e-01   1.269 0.204576    
+playerFullButler, Caron         1.171e+00  6.375e-01   1.837 0.066174 .  
+playerFullButler, Jimmy         8.740e-01  6.671e-01   1.310 0.190138    
+playerFullButler, Rasual        7.104e-03  8.306e-01   0.009 0.993175    
+playerFullBynum, Andrew         5.174e-01  5.995e-01   0.863 0.388115    
+playerFullBynum, Will           8.817e-01  6.572e-01   1.342 0.179706    
+playerFullCalderon, Jose        1.836e+00  6.983e-01   2.629 0.008565 ** 
+playerFullCamby, Marcus        -4.983e-01  6.388e-01  -0.780 0.435420    
+playerFullCardinal, Brian       1.215e+00  1.246e+00   0.975 0.329358    
+playerFullCarroll, DeMarre      1.642e+00  9.577e-01   1.715 0.086415 .  
+playerFullCarroll, Matt         9.368e-01  7.117e-01   1.316 0.188064    
+playerFullCarter, Anthony       1.119e+00  9.859e-01   1.135 0.256416    
+playerFullCarter, Vince         1.246e+00  6.367e-01   1.957 0.050347 .  
+playerFullCasspi, Omri          4.589e-01  6.227e-01   0.737 0.461117    
+playerFullChalmers, Mario       1.085e+00  6.366e-01   1.705 0.088196 .  
+playerFullChandler, Tyson       4.913e-01  5.996e-01   0.819 0.412577    
+playerFullChandler, Wilson      1.662e+00  1.221e+00   1.362 0.173327    
+playerFullChildress, Josh      -1.389e+01  3.778e+02  -0.037 0.970669    
+playerFullClark, Earl           6.394e-01  7.196e-01   0.889 0.374200    
+playerFullCole, Norris          9.581e-01  6.423e-01   1.491 0.135833    
+playerFullCollins, Jason       -4.814e-01  7.835e-01  -0.614 0.538972    
+playerFullCollison, Darren      1.326e+00  6.256e-01   2.120 0.034028 *  
+playerFullCollison, Nick        5.837e-01  6.510e-01   0.897 0.369920    
+playerFullConley, Mike          1.562e+00  6.306e-01   2.477 0.013245 *  
+playerFullCook, Brian           1.867e+00  1.207e+00   1.547 0.121915    
+playerFullCook, Daequan         2.134e-01  7.368e-01   0.290 0.772113    
+playerFullCousins, DeMarcus     5.744e-01  5.987e-01   0.959 0.337358    
+playerFullCrawford, Jamal       2.146e+00  6.462e-01   3.320 0.000899 ***
+playerFullCrawford, Jordan      1.066e+00  6.129e-01   1.740 0.081851 .  
+playerFullCunningham, Dante     3.439e-01  6.394e-01   0.538 0.590652    
+playerFullCurry, Eddy           7.037e-01  1.007e+00   0.699 0.484656    
+playerFullCurry, Stephen        1.201e+00  6.951e-01   1.728 0.083949 .  
+playerFullDalembert, Samuel     1.067e+00  6.339e-01   1.683 0.092446 .  
+playerFullDaniels, Marquis      7.545e-01  7.555e-01   0.999 0.317981    
+playerFullDavis, Baron          3.768e-01  7.302e-01   0.516 0.605815    
+playerFullDavis, Ed             3.957e-01  6.223e-01   0.636 0.524937    
+playerFullDavis, Glen           4.704e-01  6.102e-01   0.771 0.440752    
+playerFullDavis, Josh          -3.959e-01  9.207e-01  -0.430 0.667168    
+playerFullDawson, Eric         -4.651e-01  1.535e+00  -0.303 0.761863    
+playerFullDaye, Austin          1.159e+00  7.061e-01   1.641 0.100779    
+playerFullDelfino, Carlos       1.042e+00  6.867e-01   1.518 0.128997    
+playerFullDeng, Luol            9.056e-01  6.156e-01   1.471 0.141271    
+playerFullDentmon, Justin       3.977e-01  1.048e+00   0.380 0.704290    
+playerFullDerozan, DeMar        1.153e+00  6.036e-01   1.910 0.056179 .  
+playerFullDiaw, Boris           1.955e-01  6.839e-01   0.286 0.775048    
+playerFullDiogu, Ike            1.319e+01  3.778e+02   0.035 0.972143    
+playerFullDiop, DeSagana       -1.994e+00  1.244e+00  -1.603 0.108984    
+playerFullDooling, Keyon        7.647e-01  7.169e-01   1.067 0.286162    
+playerFullDouglas, Toney        1.447e+00  8.007e-01   1.807 0.070822 .  
+playerFullDragic, Goran         1.147e+00  6.158e-01   1.863 0.062468 .  
+playerFullDudley, Jared         6.484e-01  6.135e-01   1.057 0.290514    
+playerFullDuhon, Chris          1.127e+00  8.091e-01   1.393 0.163734    
+playerFullDuncan, Tim           5.306e-01  6.031e-01   0.880 0.378969    
+playerFullDunleavy, Mike        1.156e+00  6.250e-01   1.850 0.064309 .  
+playerFullDurant, Kevin         1.566e+00  6.014e-01   2.603 0.009229 ** 
+playerFullDyson, Jerome         9.520e-01  7.113e-01   1.339 0.180727    
+playerFullEbanks, Devin         3.335e-01  6.870e-01   0.485 0.627352    
+playerFullEllington, Wayne      1.107e+00  7.081e-01   1.563 0.118007    
+playerFullEllis, Monta          1.082e+00  6.060e-01   1.785 0.074313 .  
+playerFullEmmett, Andre         1.843e-01  9.383e-01   0.196 0.844246    
+playerFullErden, Semih         -2.868e-01  6.653e-01  -0.431 0.666476    
+playerFullEvans, Jeremy        -3.211e-01  7.718e-01  -0.416 0.677422    
+playerFullEvans, Maurice        5.539e-01  9.073e-01   0.610 0.541583    
+playerFullEvans, Reggie        -2.777e-01  6.334e-01  -0.438 0.661100    
+playerFullEvans, Tyreke         1.005e+00  6.067e-01   1.656 0.097625 .  
+playerFullEyenga, Christian    -1.049e+00  1.048e+00  -1.001 0.316652    
+playerFullFaried, Kenneth       3.699e-01  6.110e-01   0.605 0.544981    
+playerFullFarmar, Jordan        1.976e+00  7.276e-01   2.716 0.006604 ** 
+playerFullFavors, Derrick       3.300e-01  6.069e-01   0.544 0.586574    
+playerFullFelton, Raymond       1.173e+00  6.334e-01   1.852 0.064076 .  
+playerFullFernandez, Rudy       5.266e-01  6.748e-01   0.780 0.435172    
+playerFullFesenko, Kyrylo       3.723e-01  1.048e+00   0.355 0.722320    
+playerFullFields, Landry       -5.503e-02  6.120e-01  -0.090 0.928352    
+playerFullFisher, Derek         1.449e+00  6.802e-01   2.130 0.033197 *  
+playerFullFlynn, Jonny          7.207e-01  6.924e-01   1.041 0.297958    
+playerFullForbes, Gary          6.620e-01  6.323e-01   1.047 0.295170    
+playerFullFord, T.J.            9.741e-01  8.776e-01   1.110 0.266980    
+playerFullFortson, Courtney     3.676e-01  8.035e-01   0.458 0.647307    
+playerFullFoster, Jeff          3.951e-01  9.201e-01   0.429 0.667625    
+playerFullFoye, Randy           1.526e+00  6.648e-01   2.296 0.021684 *  
+playerFullFredette, Jimmer      1.336e+00  7.038e-01   1.899 0.057614 .  
+playerFullFrye, Channing        1.764e+00  6.859e-01   2.572 0.010119 *  
+playerFullGadzuric, Dan        -1.390e+01  3.778e+02  -0.037 0.970642    
+playerFullGaines, Sundiata      1.483e-01  6.234e-01   0.238 0.811917    
+playerFullGallinari, Danilo     1.624e+00  6.224e-01   2.609 0.009090 ** 
+playerFullGarcia, Francisco     1.123e+00  7.443e-01   1.509 0.131324    
+playerFullGarnett, Kevin        1.505e+00  6.230e-01   2.415 0.015720 *  
+playerFullGasol, Marc           7.927e-01  6.012e-01   1.318 0.187350    
+playerFullGasol, Pau            1.056e+00  6.071e-01   1.739 0.082014 .  
+playerFullGay, Rudy             1.059e+00  6.065e-01   1.746 0.080832 .  
+playerFullGee, Alonzo           1.018e+00  6.107e-01   1.667 0.095561 .  
+playerFullGeorge, Paul          1.098e+00  6.160e-01   1.783 0.074622 .  
+playerFullGibson, Daniel        1.039e+00  6.971e-01   1.490 0.136226    
+playerFullGibson, Taj           1.712e-01  6.136e-01   0.279 0.780264    
+playerFullGinobili, Manu        1.632e+00  6.582e-01   2.479 0.013174 *  
+playerFullGladness, Mickell    -3.074e-01  8.243e-01  -0.373 0.709247    
+playerFullGomes, Ryan           6.787e-01  8.970e-01   0.757 0.449279    
+playerFullGooden, Drew          1.477e+00  6.196e-01   2.383 0.017159 *  
+playerFullGordon, Ben           1.553e+00  6.373e-01   2.436 0.014852 *  
+playerFullGordon, Eric          9.108e-01  6.573e-01   1.386 0.165853    
+playerFullGortat, Marcin        2.836e-01  6.024e-01   0.471 0.637857    
+playerFullGoudelock, Andrew     2.084e+00  1.199e+00   1.738 0.082227 .  
+playerFullGranger, Danny        1.698e+00  6.137e-01   2.766 0.005669 ** 
+playerFullGray, Aaron          -1.878e-01  6.562e-01  -0.286 0.774738    
+playerFullGreen, Danny          1.024e+00  6.365e-01   1.608 0.107833    
+playerFullGreen, Gerald         7.893e-01  6.548e-01   1.205 0.228038    
+playerFullGreen, Willie         1.489e+00  7.004e-01   2.125 0.033560 *  
+playerFullGreene, Donte         1.045e+00  6.777e-01   1.542 0.123118    
+playerFullGriffin, Blake       -2.017e-01  5.944e-01  -0.339 0.734352    
+playerFullHaddadi, Hamed        5.061e-01  7.253e-01   0.698 0.485373    
+playerFullHamilton, Jordan     -7.125e-01  1.087e+00  -0.655 0.512245    
+playerFullHamilton, Richard     9.487e-01  7.136e-01   1.330 0.183654    
+playerFullHansbrough, Tyler     1.163e+00  6.069e-01   1.916 0.055355 .  
+playerFullHarangody, Luke       8.066e-01  8.895e-01   0.907 0.364493    
+playerFullHarden, James         1.428e+00  6.055e-01   2.359 0.018337 *  
+playerFullHarper, Justin       -1.376e+01  5.354e+02  -0.026 0.979503    
+playerFullHarrellson, Josh      1.606e-01  7.127e-01   0.225 0.821740    
+playerFullHarrington, Al        4.543e-01  6.092e-01   0.746 0.455809    
+playerFullHarris, Devin         7.986e-01  6.089e-01   1.312 0.189641    
+playerFullHarris, Manny         4.891e-01  6.518e-01   0.750 0.452975    
+playerFullHarris, Terrel        3.492e-01  7.481e-01   0.467 0.640669    
+playerFullHarris, Tobias        1.158e+00  6.837e-01   1.693 0.090395 .  
+playerFullHaslem, Udonis        1.198e+00  6.399e-01   1.872 0.061241 .  
+playerFullHawes, Spencer        6.839e-01  6.608e-01   1.035 0.300677    
+playerFullHayes, Chuck          3.898e-01  6.787e-01   0.574 0.565801    
+playerFullHayward, Gordon       1.382e+00  6.142e-01   2.251 0.024412 *  
+playerFullHayward, Lazar       -1.677e-02  8.300e-01  -0.020 0.983882    
+playerFullHaywood, Brendan     -4.329e-01  6.219e-01  -0.696 0.486356    
+playerFullHenderson, Gerald     8.450e-01  6.096e-01   1.386 0.165739    
+playerFullHenry, Xavier         1.396e-01  6.279e-01   0.222 0.824038    
+playerFullHibbert, Roy          6.126e-01  6.043e-01   1.014 0.310720    
+playerFullHickson, J.J.         2.489e-01  6.162e-01   0.404 0.686322    
+playerFullHiggins, Cory         5.661e-01  6.572e-01   0.861 0.388993    
+playerFullHilario, Nene         4.249e-01  6.098e-01   0.697 0.485974    
+playerFullHill, George          9.556e-01  6.279e-01   1.522 0.128051    
+playerFullHill, Grant           8.150e-01  6.309e-01   1.292 0.196375    
+playerFullHill, Jordan          2.433e-01  6.611e-01   0.368 0.712882    
+playerFullHinrich, Kirk         1.008e+00  7.270e-01   1.386 0.165645    
+playerFullHoliday, Jrue         1.011e+00  6.277e-01   1.610 0.107425    
+playerFullHollins, Ryan        -2.364e-01  6.311e-01  -0.375 0.707973    
+playerFullHoneycutt, Tyler      2.100e-02  1.087e+00   0.019 0.984584    
+playerFullHorford, Al           7.712e-01  7.183e-01   1.074 0.282976    
+playerFullHorner, Dennis        6.893e-01  1.297e+00   0.531 0.595215    
+playerFullHoward, Dwight       -3.323e-01  5.930e-01  -0.560 0.575216    
+playerFullHoward, Josh          1.014e+00  6.371e-01   1.591 0.111662    
+playerFullHoward, Juwan         1.096e+00  9.854e-01   1.113 0.265883    
+playerFullHudson, Lester        1.291e+00  7.195e-01   1.794 0.072797 .  
+playerFullHughes, Larry        -3.540e-01  1.534e+00  -0.231 0.817496    
+playerFullHumphries, Kris       7.962e-01  6.034e-01   1.319 0.187012    
+playerFullIbaka, Serge          4.249e-01  6.197e-01   0.686 0.492899    
+playerFullIguodala, Andre       1.777e-01  6.053e-01   0.294 0.769086    
+playerFullIlyasova, Ersan       9.797e-01  6.139e-01   1.596 0.110514    
+playerFullIrving, Kyrie         1.662e+00  6.250e-01   2.658 0.007853 ** 
+playerFullIvey, Royal          -2.289e+00  1.220e+00  -1.875 0.060763 .  
+playerFullJack, Jarrett         1.649e+00  6.366e-01   2.590 0.009584 ** 
+playerFullJackson, Reggie       1.512e+00  7.970e-01   1.897 0.057868 .  
+playerFullJackson, Stephen      1.330e+00  6.413e-01   2.073 0.038127 *  
+playerFullJames, Damion         3.819e-01  8.494e-01   0.450 0.653028    
+playerFullJames, LeBron         9.265e-01  5.967e-01   1.553 0.120480    
+playerFullJames, Mike           1.647e+00  1.220e+00   1.350 0.177074    
+playerFullJamison, Antawn       4.552e-01  6.016e-01   0.757 0.449205    
+playerFullJefferson, Al         9.906e-01  6.152e-01   1.610 0.107343    
+playerFullJefferson, Richard    5.307e-01  6.326e-01   0.839 0.401581    
+playerFullJeffries, Jared       4.520e-01  6.394e-01   0.707 0.479661    
+playerFullJenkins, Charles      1.591e+00  7.586e-01   2.098 0.035938 *  
+playerFullJennings, Brandon     1.191e+00  6.098e-01   1.952 0.050893 .  
+playerFullJerebko, Jonas        1.114e+00  6.296e-01   1.770 0.076789 .  
+playerFullJianlian, Yi          3.397e-01  7.481e-01   0.454 0.649731    
+playerFullJohnson, Amir         2.403e-01  6.462e-01   0.372 0.709936    
+playerFullJohnson, Armon        1.321e+01  2.180e+02   0.061 0.951677    
+playerFullJohnson, Carldell     1.395e-01  1.088e+00   0.128 0.897980    
+playerFullJohnson, Chris        7.523e-01  8.239e-01   0.913 0.361247    
+playerFullJohnson, Ivan         1.046e+00  6.707e-01   1.560 0.118743    
+playerFullJohnson, JaJuan       3.337e-01  9.202e-01   0.363 0.716846    
+playerFullJohnson, James        4.673e-01  6.563e-01   0.712 0.476430    
+playerFullJohnson, Joe          1.685e+00  6.394e-01   2.636 0.008388 ** 
+playerFullJohnson, Trey         1.328e+01  2.389e+02   0.056 0.955680    
+playerFullJohnson, Wesley       5.756e-01  6.980e-01   0.825 0.409576    
+playerFullJones, Dahntay        1.379e+00  6.476e-01   2.130 0.033194 *  
+playerFullJones, Dominique      9.565e-01  7.102e-01   1.347 0.178029    
+playerFullJones, James          1.293e+00  7.657e-01   1.689 0.091269 .  
+playerFullJones, Solomon        1.245e+00  8.051e-01   1.547 0.121874    
+playerFullJordan, DeAndre      -2.035e-01  6.110e-01  -0.333 0.739152    
+playerFullJordan, Jerome        1.035e+00  9.856e-01   1.050 0.293769    
+playerFullJoseph, Cory          7.175e-01  8.288e-01   0.866 0.386649    
+playerFullKaman, Chris          9.992e-01  6.327e-01   1.579 0.114288    
+playerFullKanter, Enes          3.801e-01  6.249e-01   0.608 0.543038    
+playerFullKapono, Jason         1.360e+01  2.677e+02   0.051 0.959492    
+playerFullKennedy, D.J.        -1.391e+01  3.778e+02  -0.037 0.970630    
+playerFullKidd, Jason           1.032e+00  7.471e-01   1.382 0.167070    
+playerFullKleiza, Linas         1.174e+00  6.402e-01   1.833 0.066807 .  
+playerFullKnight, Brandon       8.465e-01  6.202e-01   1.365 0.172259    
+playerFullKorver, Kyle          1.452e+00  6.819e-01   2.129 0.033263 *  
+playerFullKoufos, Kosta         1.822e-01  6.521e-01   0.279 0.779941    
+playerFullLandry, Carl          1.091e+00  6.153e-01   1.772 0.076329 .  
+playerFullLawson, Ty            1.290e+00  6.144e-01   2.100 0.035735 *  
+playerFullLee, Courtney         1.338e+00  6.527e-01   2.050 0.040325 *  
+playerFullLee, David            9.796e-01  6.050e-01   1.619 0.105432    
+playerFullLee, Malcolm          1.203e+00  8.662e-01   1.388 0.164994    
+playerFullLeonard, Kawhi        9.142e-01  6.399e-01   1.429 0.153090    
+playerFullLeslie, Travis       -5.785e-01  8.925e-01  -0.648 0.516851    
+playerFullLeuer, Jon            7.974e-01  7.320e-01   1.089 0.276008    
+playerFullLewis, Rashard        1.331e+00  7.375e-01   1.805 0.071145 .  
+playerFullLiggins, DeAndre     -4.432e-01  7.461e-01  -0.594 0.552450    
+playerFullLin, Jeremy           1.082e+00  6.153e-01   1.759 0.078563 .  
+playerFullLivingston, Shaun     1.013e+00  6.480e-01   1.563 0.117938    
+playerFullLopez, Brook          2.096e-01  6.921e-01   0.303 0.762032    
+playerFullLopez, Robin          6.020e-01  6.171e-01   0.975 0.329342    
+playerFullLove, Kevin           1.256e+00  5.998e-01   2.094 0.036253 *  
+playerFullLowry, Kyle           1.542e+00  6.227e-01   2.476 0.013285 *  
+playerFullLucas, John           1.653e+00  7.943e-01   2.082 0.037380 *  
+playerFullMack, Shelvin         5.763e-01  6.538e-01   0.881 0.378070    
+playerFullMacklin, Vernon      -8.858e-02  7.984e-01  -0.111 0.911655    
+playerFullMaggette, Corey       1.470e+00  6.194e-01   2.373 0.017622 *  
+playerFullMagloire, Jamaal     -1.370e+00  7.337e-01  -1.867 0.061918 .  
+playerFullMahinmi, Ian          2.286e-01  6.136e-01   0.372 0.709546    
+playerFullMarion, Shawn         1.131e+00  6.464e-01   1.749 0.080215 .  
+playerFullMartin, Cartier      -3.322e-02  7.496e-01  -0.044 0.964652    
+playerFullMartin, Kenyon       -8.447e-01  6.515e-01  -1.297 0.194756    
+playerFullMartin, Kevin         1.868e+00  6.356e-01   2.940 0.003287 ** 
+playerFullMason, Roger          9.809e-01  7.492e-01   1.309 0.190464    
+playerFullMatthews, Wes         1.548e+00  6.288e-01   2.462 0.013818 *  
+playerFullMaxiell, Jason       -1.280e-01  6.188e-01  -0.207 0.836106    
+playerFullMaynor, Eric          1.326e+01  2.671e+02   0.050 0.960419    
+playerFullMayo, O.J.            9.652e-01  6.148e-01   1.570 0.116439    
+playerFullMbah a Moute, Luc     2.859e-01  6.221e-01   0.460 0.645833    
+playerFullMcGee, JaVale        -4.394e-01  6.078e-01  -0.723 0.469692    
+playerFullMcGrady, Tracy        4.289e-01  6.323e-01   0.678 0.497514    
+playerFullMcGuire, Dominic      6.959e-01  6.653e-01   1.046 0.295558    
+playerFullMcRoberts, Josh       1.915e-01  6.855e-01   0.279 0.780018    
+playerFullMeeks, Jodie          2.014e+00  6.951e-01   2.897 0.003762 ** 
+playerFullMiles, C.J.           1.064e+00  6.259e-01   1.701 0.089032 .  
+playerFullMilicic, Darko       -6.005e-01  6.749e-01  -0.890 0.373555    
+playerFullMiller, Andre         1.140e+00  6.194e-01   1.840 0.065767 .  
+playerFullMiller, Brad          1.247e+00  9.727e-01   1.282 0.199895    
+playerFullMiller, Mike         -7.045e-01  1.089e+00  -0.647 0.517606    
+playerFullMills, Patrick        1.335e+01  1.609e+02   0.083 0.933892    
+playerFullMillsap, Paul         1.081e+00  6.081e-01   1.777 0.075530 .  
+playerFullMohammed, Nazr       -4.740e-02  7.228e-01  -0.066 0.947712    
+playerFullMonroe, Greg          7.362e-01  6.032e-01   1.221 0.222239    
+playerFullMoon, Jamario         1.319e+01  3.778e+02   0.035 0.972157    
+playerFullMoore, E'Twaun        1.333e+01  2.018e+02   0.066 0.947341    
+playerFullMoore, Mikki          1.531e+00  1.230e+00   1.244 0.213488    
+playerFullMorris, Darius        3.787e-01  9.201e-01   0.412 0.680678    
+playerFullMorris, Marcus        7.705e-01  1.007e+00   0.765 0.444058    
+playerFullMorris, Markieff      6.451e-01  6.280e-01   1.027 0.304331    
+playerFullMorrow, Anthony       2.328e+00  7.058e-01   3.298 0.000973 ***
+playerFullMozgov, Timofey       4.600e-01  6.529e-01   0.705 0.481111    
+playerFullMullens, Byron        1.196e+00  6.370e-01   1.878 0.060437 .  
+playerFullMurphy, Troy          4.084e-01  9.203e-01   0.444 0.657186    
+playerFullNajera, Eduardo      -3.519e-01  1.162e+00  -0.303 0.761901    
+playerFullNash, Steve           1.871e+00  6.482e-01   2.886 0.003902 ** 
+playerFullNeal, Gary            9.922e-01  6.606e-01   1.502 0.133119    
+playerFullNelson, Jameer        1.139e+00  6.464e-01   1.762 0.078103 .  
+playerFullNoah, Joakim          7.875e-01  6.087e-01   1.294 0.195730    
+playerFullNocioni, Andres      -1.988e-01  8.454e-01  -0.235 0.814090    
+playerFullNovak, Steve          1.502e+00  8.012e-01   1.875 0.060851 .  
+playerFullNowitzki, Dirk        1.889e+00  6.124e-01   3.084 0.002039 ** 
+playerFullO'Neal, Jermaine      4.389e-01  7.021e-01   0.625 0.531916    
+playerFullOdom, Lamar           1.383e-01  6.246e-01   0.221 0.824764    
+playerFullOkafor, Emeka        -2.562e-01  6.317e-01  -0.406 0.685064    
+playerFullOkur, Mehmet          1.927e-01  1.087e+00   0.177 0.859226    
+playerFullOrton, Daniel        -5.533e-01  7.126e-01  -0.777 0.437454    
+playerFullOutlaw, Travis        3.583e-01  6.725e-01   0.533 0.594181    
+playerFullPachulia, Zaza        7.508e-01  6.146e-01   1.222 0.221841    
+playerFullPargo, Jannero        2.629e+00  1.183e+00   2.223 0.026183 *  
+playerFullPargo, Jeremy         5.616e-02  7.061e-01   0.080 0.936610    
+playerFullParker, Anthony       2.034e-01  6.489e-01   0.313 0.753982    
+playerFullParker, Tony          1.112e+00  6.056e-01   1.837 0.066210 .  
+playerFullParsons, Chandler    -1.390e-01  6.307e-01  -0.220 0.825636    
+playerFullPatterson, Patrick    5.720e-01  6.548e-01   0.874 0.382381    
+playerFullPaul, Chris           1.582e+00  6.104e-01   2.592 0.009529 ** 
+playerFullPavlovic, Sasha      -8.136e-01  9.379e-01  -0.868 0.385658    
+playerFullPekovic, Nikola       7.587e-01  6.106e-01   1.242 0.214055    
+playerFullPendergraph, Jeff    -6.629e-02  9.648e-01  -0.069 0.945222    
+playerFullPerkins, Kendrick     3.293e-01  6.199e-01   0.531 0.595271    
+playerFullPetro, Johan          1.308e+00  7.375e-01   1.774 0.076135 .  
+playerFullPierce, Paul          1.482e+00  6.065e-01   2.444 0.014507 *  
+playerFullPietrus, Mickael      2.953e-01  6.972e-01   0.424 0.671921    
+playerFullPittman, Dexter       2.788e-01  7.077e-01   0.394 0.693566    
+playerFullPondexter, Quincy     1.927e-01  6.522e-01   0.295 0.767671    
+playerFullPrice, A.J.           1.083e+00  7.237e-01   1.497 0.134479    
+playerFullPrice, Ronnie         1.093e+00  7.716e-01   1.417 0.156607    
+playerFullPrince, Tayshaun      9.286e-01  6.282e-01   1.478 0.139337    
+playerFullPrzybilla, Joel       4.635e-01  7.981e-01   0.581 0.561397    
+playerFullRadmanovic, Vladimir  8.644e-01  7.306e-01   1.183 0.236717    
+playerFullRandolph, Anthony     8.441e-01  6.406e-01   1.318 0.187643    
+playerFullRandolph, Zach        3.708e-01  6.289e-01   0.590 0.555504    
+playerFullRedd, Michael         1.051e+00  6.324e-01   1.662 0.096473 .  
+playerFullRedick, J.J.          2.059e+00  6.507e-01   3.165 0.001550 ** 
+playerFullRichardson, Jason     3.144e-02  6.458e-01   0.049 0.961177    
+playerFullRichardson, Quentin   1.595e+00  8.540e-01   1.868 0.061729 .  
+playerFullRidnour, Luke         1.969e+00  6.619e-01   2.975 0.002934 ** 
+playerFullRobinson, Nate        1.379e+00  6.412e-01   2.150 0.031519 *  
+playerFullRondo, Rajon          8.411e-02  6.064e-01   0.139 0.889688    
+playerFullRose, Derrick         1.193e+00  6.100e-01   1.956 0.050419 .  
+playerFullRubio, Ricky          1.114e+00  6.205e-01   1.796 0.072540 .  
+playerFullRush, Brandon         1.025e+00  6.476e-01   1.583 0.113432    
+playerFullRussell, Walker       2.840e-01  7.364e-01   0.386 0.699737    
+playerFullSalmons, John         3.002e-01  6.649e-01   0.452 0.651601    
+playerFullSamuels, Samardo      5.430e-01  6.209e-01   0.874 0.381851    
+playerFullSanders, Larry       -4.186e-01  6.713e-01  -0.624 0.532889    
+playerFullScalabrine, Brian    -3.498e-01  1.007e+00  -0.347 0.728346    
+playerFullScola, Luis           9.322e-01  6.113e-01   1.525 0.127244    
+playerFullSefolosha, Thabo      1.727e+00  7.562e-01   2.283 0.022408 *  
+playerFullSelby, Josh           1.002e+00  8.780e-01   1.142 0.253533    
+playerFullSeraphin, Kevin       4.467e-01  6.436e-01   0.694 0.487654    
+playerFullSessions, Ramon       9.790e-01  6.091e-01   1.607 0.107981    
+playerFullShumpert, Iman        1.077e+00  6.339e-01   1.699 0.089323 .  
+playerFullSilas, Xavier         4.135e-01  1.361e+00   0.304 0.761230    
+playerFullSimmons, Bobby       -3.013e-05  9.647e-01   0.000 0.999975    
+playerFullSingleton, Chris      7.145e-01  6.600e-01   1.083 0.278976    
+playerFullSingleton, James      1.324e+01  3.778e+02   0.035 0.972038    
+playerFullSloan, Donald         8.956e-01  7.291e-01   1.228 0.219320    
+playerFullSmith, Craig          5.718e-01  6.629e-01   0.863 0.388382    
+playerFullSmith, Ishmael        5.025e-01  9.070e-01   0.554 0.579564    
+playerFullSmith, J.R.           5.898e-01  6.581e-01   0.896 0.370092    
+playerFullSmith, Jason          5.680e-01  6.685e-01   0.850 0.395519    
+playerFullSmith, Josh           2.479e-01  5.984e-01   0.414 0.678722    
+playerFullSmith, Nolan          7.906e-01  7.533e-01   1.050 0.293921    
+playerFullSpeights, Marreese    9.169e-01  6.300e-01   1.455 0.145568    
+playerFullSplitter, Tiago       4.930e-01  6.089e-01   0.810 0.418135    
+playerFullStackhouse, Jerry     2.149e+00  9.458e-01   2.272 0.023066 *  
+playerFullStephenson, Lance    -4.349e-01  7.627e-01  -0.570 0.568518    
+playerFullStevenson, DeShawn   -1.482e-01  7.753e-01  -0.191 0.848447    
+playerFullStiemsma, Greg        5.632e-01  6.804e-01   0.828 0.407816    
+playerFullStone, Julyan         6.651e-01  8.972e-01   0.741 0.458502    
+playerFullStoudemire, Amare     8.917e-01  6.064e-01   1.471 0.141426    
+playerFullStuckey, Rodney       1.345e+00  6.062e-01   2.219 0.026477 *  
+playerFullSummers, DaJuan       9.304e-01  9.947e-01   0.935 0.349597    
+playerFullTeague, Jeff          8.554e-01  6.116e-01   1.399 0.161935    
+playerFullTelfair, Sebastian    1.040e+00  6.712e-01   1.549 0.121275    
+playerFullTerry, Jason          1.828e+00  6.623e-01   2.759 0.005789 ** 
+playerFullThabeet, Hasheem      3.378e-01  7.717e-01   0.438 0.661592    
+playerFullThomas, Isaiah        1.350e+00  6.223e-01   2.169 0.030075 *  
+playerFullThomas, Kurt          3.793e-01  7.720e-01   0.491 0.623179    
+playerFullThomas, Lance         1.354e+00  6.813e-01   1.987 0.046928 *  
+playerFullThomas, Malcolm      -3.757e-01  1.534e+00  -0.245 0.806543    
+playerFullThomas, Tyrus         8.319e-01  6.408e-01   1.298 0.194217    
+playerFullThompkins, Trey       5.687e-01  1.023e+00   0.556 0.578371    
+playerFullThompson, Jason       9.538e-02  6.068e-01   0.157 0.875100    
+playerFullThompson, Klay        1.657e+00  6.701e-01   2.472 0.013417 *  
+playerFullThompson, Tristan    -1.542e-01  6.074e-01  -0.254 0.799621    
+playerFullThornton, Marcus      1.597e+00  6.304e-01   2.533 0.011302 *  
+playerFullTinsley, Jamaal       8.851e-01  8.201e-01   1.079 0.280417    
+playerFullTolliver, Anthony     7.957e-01  6.640e-01   1.198 0.230761    
+playerFullTuriaf, Ronny         3.256e-02  7.305e-01   0.045 0.964451    
+playerFullTurkoglu, Hedo        5.903e-01  6.290e-01   0.939 0.347957    
+playerFullTurner, Evan          4.391e-01  6.221e-01   0.706 0.480276    
+playerFullTyler, Jeremy        -6.938e-02  6.553e-01  -0.106 0.915683    
+playerFullUbiles, Edwin         1.333e+01  3.086e+02   0.043 0.965547    
+playerFullUdoh, Ekpe            8.181e-01  6.263e-01   1.306 0.191448    
+playerFullUdrih, Beno           6.098e-01  6.582e-01   0.927 0.354154    
+playerFullUzoh, Ben             2.719e-02  7.494e-01   0.036 0.971061    
+playerFullVarejao, Anderson     4.236e-01  6.448e-01   0.657 0.511216    
+playerFullVasquez, Greivis      1.265e+00  6.348e-01   1.993 0.046262 *  
+playerFullVesely, Jan          -1.830e-01  6.401e-01  -0.286 0.774977    
+playerFullVillanueva, Charlie   1.441e+00  1.230e+00   1.171 0.241709    
+playerFullVucevic, Nikola      -2.078e-01  6.806e-01  -0.305 0.760136    
+playerFullWade, Dwyane          1.053e+00  6.043e-01   1.743 0.081309 .  
+playerFullWafer, Von            5.629e-01  6.586e-01   0.855 0.392763    
+playerFullWalker, Bill          1.453e+00  8.589e-01   1.692 0.090683 .  
+playerFullWalker, Kemba         9.973e-01  6.107e-01   1.633 0.102445    
+playerFullWall, John            1.020e+00  6.000e-01   1.699 0.089247 .  
+playerFullWallace, Ben         -9.621e-01  6.632e-01  -1.451 0.146873    
+playerFullWallace, Gerald       1.080e+00  6.108e-01   1.768 0.077069 .  
+playerFullWarrick, Hakim        8.896e-01  6.335e-01   1.404 0.160288    
+playerFullWatkins, Darryl      -2.799e-01  7.537e-01  -0.371 0.710397    
+playerFullWatson, C.J.          1.124e+00  6.381e-01   1.762 0.078029 .  
+playerFullWatson, Earl          4.402e-01  6.664e-01   0.661 0.508907    
+playerFullWebster, Martell      1.020e+00  6.551e-01   1.557 0.119400    
+playerFullWest, David           1.129e+00  6.175e-01   1.828 0.067507 .  
+playerFullWest, Delonte         1.779e+00  6.972e-01   2.551 0.010727 *  
+playerFullWestbrook, Russell    1.301e+00  6.019e-01   2.162 0.030610 *  
+playerFullWhite, D.J.           5.373e-01  6.510e-01   0.825 0.409153    
+playerFullWhiteside, Hassan    -6.747e-01  8.300e-01  -0.813 0.416261    
+playerFullWilcox, Chris         1.614e-01  6.735e-01   0.240 0.810593    
+playerFullWilkins, Damien       2.172e-01  6.514e-01   0.333 0.738775    
+playerFullWilliams, Deron       1.445e+00  6.405e-01   2.257 0.024039 *  
+playerFullWilliams, Derrick     5.254e-01  6.075e-01   0.865 0.387078    
+playerFullWilliams, Elliot     -1.043e+00  7.718e-01  -1.351 0.176640    
+playerFullWilliams, Jordan      2.087e+00  1.199e+00   1.741 0.081721 .  
+playerFullWilliams, Louis       1.161e+00  6.059e-01   1.915 0.055429 .  
+playerFullWilliams, Marvin      1.046e+00  6.212e-01   1.683 0.092338 .  
+playerFullWilliams, Mo          1.963e+00  6.958e-01   2.821 0.004785 ** 
+playerFullWilliams, Reggie      6.718e-01  6.859e-01   0.979 0.327378    
+playerFullWilliams, Sean        2.139e+00  1.196e+00   1.789 0.073618 .  
+playerFullWilliams, Shelden     1.110e+00  6.769e-01   1.640 0.100954    
+playerFullWilliams, Terrence    6.374e-02  6.662e-01   0.096 0.923782    
+playerFullWorld Peace, Metta    1.855e-01  6.184e-01   0.300 0.764210    
+playerFullWright, Brandan       2.210e-01  6.306e-01   0.351 0.725945    
+playerFullWright, Chris         1.040e+00  7.715e-01   1.348 0.177515    
+playerFullWright, Dorell        1.161e+00  6.460e-01   1.797 0.072269 .  
+playerFullYoung, Nick           1.444e+00  6.259e-01   2.307 0.021050 *  
+playerFullYoung, Sam            1.281e+00  9.727e-01   1.317 0.187702    
+playerFullYoung, Thaddeus       8.479e-01  6.159e-01   1.377 0.168617    
+prevTries                       2.609e-01  2.323e-02  11.231  < 2e-16 ***
+typeFlagrant                    4.053e-02  1.845e-01   0.220 0.826080    
+typeTechnical                  -2.023e-01  7.391e-02  -2.737 0.006209 ** 
+closeness                       4.591e-03  1.892e-03   2.427 0.015236 *  
+secondsLeft                     1.990e-05  1.683e-05   1.182 0.237100    
+clutch55TRUE                   -5.959e-02  5.327e-02  -1.119 0.263306    
+aheadTRUE                      -3.177e-02  2.414e-02  -1.316 0.188061    
+isHomeTeamTRUE                  3.203e-02  2.361e-02   1.356 0.175019    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 48517  on 43393  degrees of freedom
+Residual deviance: 45745  on 42928  degrees of freedom
+AIC: 46677
+
+Number of Fisher Scoring iterations: 12
+
